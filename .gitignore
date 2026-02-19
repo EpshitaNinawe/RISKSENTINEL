@@ -1,0 +1,27 @@
+# Virtual Environments
+*_env/
+del_env/
+delinq_env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# MLflow
+mlruns/
+
+# Large Datasets
+data/raw/
+*.csv
+
+# Model Files
+models/
+*.pkl
+*.joblib
+*.h5
+
+# OS / Editor
+.DS_Store
+.vscode/
